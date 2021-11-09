@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 my name is Aleksandr
+I’m currently learning in SCHOOL 21 and my login is ebalgruu
 
 <!--
 **mankofeman/mankofeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning in SCHOOL 21 and my login is ebalgruu
 -->
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ebalgruu?darkmode=true&cursus=C%42Cursus)](https://github.com/JaeSeoKim/badge42)
+
+### Projects scores: 
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Libft)](https://github.com/JaeSeoKim/badge42) Libft
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/ft_printf)](https://github.com/JaeSeoKim/badge42) Ft_printf
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/get_next_line)](https://github.com/JaeSeoKim/badge42) Get_next_line
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/minitalk)](https://github.com/JaeSeoKim/badge42) Minitalk
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Philosophers)](https://github.com/JaeSeoKim/badge42) Philosophers
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/push_swap)](https://github.com/JaeSeoKim/badge42) Push_swap
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/so_long)](https://github.com/JaeSeoKim/badge42) So_long
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Born2beroot)](https://github.com/JaeSeoKim/badge42) Born2beroot
+
