@@ -10,6 +10,7 @@
 
 ### Projects scores: 
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/minishell)](https://github.com/JaeSeoKim/badge42) minishell   
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Libft)](https://github.com/JaeSeoKim/badge42) Libft    
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/ft_printf)](https://github.com/JaeSeoKim/badge42) Ft_printf  
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/get_next_line)](https://github.com/JaeSeoKim/badge42) Get_next_line    
