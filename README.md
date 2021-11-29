@@ -1,4 +1,5 @@
-## Hi there 👋 my name is Aleksandr
+## Hi there, my name is Aleksandr 👋
+
 ### I’m currently learning in SCHOOL 21 and my login is ebalgruu<br/>
 <br/>
 <!--
