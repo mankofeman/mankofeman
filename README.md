@@ -1,6 +1,6 @@
 ## Hi there, my name is Aleksandr 👋
 
-### I’m currently learning in SCHOOL 21 and my login is ebalgruu<br/>
+### I’m currently study at SCHOOL 21 and my login is ebalgruu<br/>
 <br/>
 <!--
 **mankofeman/mankofeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
