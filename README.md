@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning in SCHOOL 21 and my login is ebalgruu
 -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ebalgruu?darkmode=true&cursus=C%42Cursus)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ebalgruu?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ### Projects scores: 
 
