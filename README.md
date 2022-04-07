@@ -5,8 +5,9 @@
 <p align="center"> 
 
 <div align="center">
-    
+
 ![ebalgruu's 42 stats](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/stats?cursusId=21&coalitionId=91)
+<!-- https://github.com/JaeSeoKim/badge42 -->
 
 <div align="center">
   <div style="display: flex;">
