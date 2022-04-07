@@ -1,12 +1,14 @@
 ## Hi there, my name is Aleksandr 👋 <br/>
-#### I’m currently study at SCHOOL 21 and my nickname is \"ebalgruu\"
+#### I’m currently study at SCHOOL 21
+
+
 <p align="center"> 
 
 <div align="center">
     
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ebalgruu?privacyEmail=true)
+![ebalgruu's 42 stats](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/stats?cursusId=21&coalitionId=91)
 
-  <div align="center">
+<div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankofeman&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=mankofeman&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
@@ -15,11 +17,11 @@
 
 |  |  Projects scores:|  |
 | :---         | :---:    | ---:          |
-| Minishell | Libft | Ft_printf |
-|![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/minishell)        | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Libft)   | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/ft_printf)        |
+| Minishell | Webserv | Cub3d |
+|![ebalgruu's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2334492)        | ![ebalgruu's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2520631)   | ![ebalgruu's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2478792)        |
 | Get_next_line       | Minitalk   | Philosophers        |
-| ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/get_next_line)      | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/minitalk)   | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Philosophers)        |
+| ![ebalgruu's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2167257)    | ![ebalgruu's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2219412)   | ![ebalgruu's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2334491)       |
 | Push_swap       | So_long   | Born2beroot        |
-| ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/push_swap) | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/so_long) | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ebalgruu/Born2beroot) |/>
+| ![ebalgruu's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2218667) | ![ebalgruu's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2218664) | ![ebalgruu's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1p4vyzs020209k1abagl1rp/project/2178760) |/>
 
 </p>
